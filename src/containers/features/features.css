@@ -16,7 +16,7 @@
     margin-right: 5rem;
 }
 
-.gpt3__features-heading h1 {
+.gpt3__features-heading h3 {
     font-size: 34px;
     line-height: 45px;
     font-weight: 800;
@@ -53,7 +53,7 @@
 
 
 @media screen and (max-width: 550px) {
-    .gpt3__features-heading h1 {
+    .gpt3__features-heading h3 {
         font-size: 28px;
         line-height: 38px;
     }

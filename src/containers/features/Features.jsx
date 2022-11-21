@@ -31,7 +31,7 @@ const Features = () => {
   return (
    <div className="gpt3__features section__padding"  id="features">
     <div className=" gpt3__features-heading"> 
-    <h1 className="gradient__text"> Get Organized in Style!</h1>
+    <h3 className="gradient__text"> Get Organized in Style!</h3>
     <a href="#blog">
     <p>Shop Today</p>
     </a>
