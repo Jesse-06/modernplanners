@@ -27,7 +27,7 @@ notebooks & planners for your daily life!</p>
       </div>
       <div className="gpt3__header-image"> 
       <a href="#brand">
-        <img src={ai} alt="ai"/>
+        <img src={ai} alt="Shop 2023 daily planner"/>
         </a>
         </div>
     </div>

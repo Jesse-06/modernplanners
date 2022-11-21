@@ -6,7 +6,7 @@ import './trees.css';
 const Trees = () => (
   <div className="gpt3__trees section__padding" id="trees">
     <div className="gpt3__trees-heading">
-      <h1 className="gradient__text">One Planner Or Notebook <br /> = <br /> One Tree Planted!</h1>
+      <h2 className="gradient__text">One Planner or Notebook <br /> = <br /> One Tree Planted!</h2>
     </div>
     <div className="gpt3__trees-container">
       <div className="gpt3__trees-container_groupA">

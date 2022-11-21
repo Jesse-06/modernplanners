@@ -25,7 +25,7 @@
     flex-direction: column;
 }
 
-.gpt3__giving-content h4 {
+.gpt3__giving-content h5 {
     font-family: var(--font-family);
     font-weight: 500;
     font-size: 16px;
@@ -33,11 +33,11 @@
     color: #71E5FF;
 }
 
-.gpt3__giving-content h4:last-child {
+.gpt3__giving-content h5:last-child {
     color: #ff8A71;
 }
 
-.gpt3__giving-content h1 {
+.gpt3__giving-content h3 {
     font-family: var(--font-family);
     font-weight: 800;
     font-size: 34px;

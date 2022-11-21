@@ -6,16 +6,16 @@ const Partner = () => (
   <div className="gpt3__partner section__padding">
     <div>
       
-      <img src={one} alt="OneTreePlanted"/>
+      <img src={one} alt="Reforestation logo"/>
     </div>
     <div>
-      <img src={tree} alt="OneTreePlanted"/>
+      <img src={tree} alt="One Tree Planted logo"/>
     </div>
     <div>
-      <img src={knockout} alt="OneTreePlanted"/>
+      <img src={knockout} alt="One Tree Planted product badge"/>
     </div>
     <div>
-      <img src={planted} alt="OneTreePlanted"/>
+      <img src={planted} alt="One Tree Planted logo white"/>
     </div>
     
   </div>

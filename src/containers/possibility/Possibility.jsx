@@ -7,14 +7,17 @@ const Possibility = () => {
     <div className="gpt3__possibility section__padding" id="possibility">
      <div className="gpt3__possibility-image"> 
      <a href="#blog">
-      <img src={possibilityImage} alt="possibility"/>
+      <img src={possibilityImage} alt="Variety of daily planners 2023"/>
       </a>
      </div>
     <div className="gpt3__possibility-content"> 
-      <h4>Choose from Over 100 Variety of Assortments</h4>
-      <h1 className="gradient__text">Mix and Match Dimensions with Styles. </h1>
-      <p> Our selections include hardcovers and paperbacks with page counts of: 120, 180, 198, 200. Sizes include 6" X 9" and 7.2" X 10.3". All of our pages are 36 lined, college ruled. Perfect as: Writing Journals, Diaries, Notebooks, Agendas, and Planners. A great choice for: Office Planning, Back to School, University Students, Midterm Planning, Task Management, Dieting and Exercise Tracking.</p>
-      <a href="#home"><h4> Request to be Notified of New Arrivals </h4></a>
+      <h5>Choose from Over 100 Variety of Assortments</h5>
+      <h3 className="gradient__text">Mix and Match Dimensions with Styles. </h3>
+      <p> Our selections include hardcovers and paperbacks with page counts of: 120, 180, 198, 200. Sizes include 6" X 9" and 7.2" X 10.3"; 7" X 10". All of our pages are 36 lined,
+college ruled. Perfect as: journals, diaries, notebooks, logbooks, and memo pads. A great
+choice for: office planning, back to school, university students, midterm planning, task
+management, losing weight, financial planning and maintenance tracking.</p>
+      <a href="#home"><h5> Request to be Notified of New Arrivals </h5></a>
     </div>
     </div>
   )

@@ -11,17 +11,17 @@ import './footer.css';
 const Footer = () => (
   <div className="gpt3__footer section__padding">
     <div className="gpt3__footer-heading">
-      <h1 className="gradient__text">A designer touch to your stationary workflow</h1>
+      <h2 className="gradient__text">A Designers Touch to Your Stationary Workflow</h2>
     </div>
 
     <div className="gpt3__footer-btn">
-     <a href="https://www.dropbox.com/s/qdbw55swolpo0tn/Virtual%20Catalogue.pdf?dl=0" target="_blank" rel="noopener noreferrer" alt="catalogue"><p>Virtual Catalogue</p></a>
+     <a href="https://www.dropbox.com/s/qdbw55swolpo0tn/Virtual%20Catalogue.pdf?dl=0" target="_blank" rel="noopener noreferrer" alt="Modern Planners Catalogue"><p>Virtual Catalogue</p></a>
     </div>
 
     <div className="gpt3__footer-links">
       <div className="gpt3__footer-links_logo">
         <a href="#home">
-        <img src={gpt3Logo} alt="gpt3_logo" />
+        <img src={gpt3Logo} alt="Modern Planners footer logo" />
         </a>
         <p>9905 S Pennsylvania Ave Ste A, Oklahoma City, OK 73159 <br /> All Rights Reserved</p>
       </div>

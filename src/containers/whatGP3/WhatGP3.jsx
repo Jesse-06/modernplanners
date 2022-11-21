@@ -10,8 +10,8 @@ const WhatGP3 = () => {
       <Feature title="Designer Notebooks and Planners" text="Every year we introduce a new line of covers and replenish the previous years planners with the updated calendar year. Found a cover you like? We'll keep you up-to-date before your current yearly planner runs out, with seamless notifications. Hassle-free purchasing with one-click redirect to our inventory."/>
     </div>
     <div className=" gpt3__whatgpt3-heading">
-      <h3 className=" gradient__text"> Shop our variety of selections: Kids, Floral Designs, Ornamental Patterns, Nature Inspired.</h3>
-      <a href="https://www.dropbox.com/s/qdbw55swolpo0tn/Virtual%20Catalogue.pdf?dl=0" target="_blank" rel="noopener noreferrer" alt="virtual catalogue">
+      <h3 className=" gradient__text"> Shop Our Variety of Selections: Kids, Floral Designs, Ornamental Patterns, Nature-inspired.</h3>
+      <a href="https://www.dropbox.com/s/qdbw55swolpo0tn/Virtual%20Catalogue.pdf?dl=0" target="_blank" rel="noopener noreferrer" alt="Modern Planners virtual catalogue">
       <p> Become A Distributor</p>
       </a>
     </div>

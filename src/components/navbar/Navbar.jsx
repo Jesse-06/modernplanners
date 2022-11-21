@@ -23,7 +23,7 @@ const Navbar = () => {
       <div className="gpt3__navbar-links">
         <div className="gpt3__navbar-links_logo">
           <a href="#blog">
-          <img src= {logo} alt="logo"/>
+          <img src= {logo} alt="Logo Modern Planners"/>
           </a>
         </div>
           <div className="gpt3__navbar-links_container">
