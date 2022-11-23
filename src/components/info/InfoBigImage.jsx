@@ -2,12 +2,18 @@ import React from "react";
 import "./info.css";
 import treeImage from "../../assets/knockout.png";
 
-const Info = ({ imgUrl, date, text }) => (
-  <div className="gpt3__trees-container_info">
-    <div className="gpt3__trees-container_info-image">
-      <img src={imgUrl} alt="trees_image" />
+const InfoBigImage = ({ imgUrl, date, text }) => (
+  <div className="gpt3__trees-container_info" id="big-image-container">
+    <div
+      className="gpt3__trees-container_info-image"
+      id="big-image-container-image"
+    >
+      <img src={imgUrl} alt="trees_image" id="big-image-img" />
     </div>
-    <div className="gpt3__trees-container_info-content">
+    <div
+      className="gpt3__trees-container_info-content"
+      id="big-image-container-content"
+    >
       <div>
         <p>{date}</p>
         <h4>{text}</h4>
@@ -26,4 +32,4 @@ const Info = ({ imgUrl, date, text }) => (
   </div>
 );
 
-export default Info;
+export default InfoBigImage;
