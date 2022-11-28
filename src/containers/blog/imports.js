@@ -20,7 +20,6 @@ import blog18 from '../../assets/blog18.png';
 import blog19 from '../../assets/blog19.png';
 import blog20 from '../../assets/blog20.png';
 import blog124 from '../../assets/blog124.png';
-import blog505 from '../../assets/blog505.png';
 import blog1020 from '../../assets/blog1020.png';
 import blog1021 from '../../assets/blog1021.png';
 import blog1022 from '../../assets/blog1022.png';
@@ -56,7 +55,6 @@ export {
     blog19,
     blog20,
     blog124,
-    blog505,
     blog1020,
     blog1021,
     blog1022,

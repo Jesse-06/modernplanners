@@ -3,6 +3,7 @@ import gpt3Logo from '../../assets/logo.svg';
 import facebook from '../../assets/facebook.png';
 import twitter from '../../assets/twitter.png';
 import instagram from '../../assets/instagram.png';
+import tiktok from '../../assets/tiktok.png';
 
 
 import './footer.css';
@@ -36,6 +37,9 @@ const Footer = () => (
         </a>
         <a href="https://twitter.com/planners_modern" target="_blank" rel="noopener noreferrer">
         <img src={twitter} alt="twitter"/><p>Twitter</p>
+        </a>
+        <a href="https://www.tiktok.com/@modern_planners?_t=8XhSxyvDVgU&_r=1" target="_blank" rel="noopener noreferrer">
+        <img src={tiktok} alt="tiktok"/><p>TikTok</p>
         </a>
       </div>
       
