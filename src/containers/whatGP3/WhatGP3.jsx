@@ -11,7 +11,7 @@ const WhatGP3 = () => {
     </div>
     <div className=" gpt3__whatgpt3-heading">
       <h3 className=" gradient__text"> Shop Our Variety of Selections: Kids, Floral Designs, Ornamental Patterns, Nature-inspired.</h3>
-      <a href="https://www.dropbox.com/s/qdbw55swolpo0tn/Virtual%20Catalogue.pdf?dl=0" target="_blank" rel="noopener noreferrer" alt="Modern Planners virtual catalogue">
+      <a href="https://www.dropbox.com/s/y40rgptug0nzgbv/Modern%20Planners%20Reseller%20Distributor%20Catalogue%20%7C%20Spring%20Catalogue.pdf?dl=0" target="_blank" rel="noopener noreferrer" alt="Modern Planners virtual catalogue">
       <p> Become A Distributor</p>
       </a>
     </div>

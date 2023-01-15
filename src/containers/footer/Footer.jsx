@@ -16,7 +16,7 @@ const Footer = () => (
     </div>
 
     <div className="gpt3__footer-btn">
-     <a href="https://www.dropbox.com/s/qdbw55swolpo0tn/Virtual%20Catalogue.pdf?dl=0" target="_blank" rel="noopener noreferrer" alt="Modern Planners Catalogue"><p>Virtual Catalogue</p></a>
+     <a href="https://www.dropbox.com/s/y40rgptug0nzgbv/Modern%20Planners%20Reseller%20Distributor%20Catalogue%20%7C%20Spring%20Catalogue.pdf?dl=0" target="_blank" rel="noopener noreferrer" alt="Modern Planners Catalogue"><p>Virtual Catalogue</p></a>
     </div>
 
     <div className="gpt3__footer-links">
@@ -41,6 +41,8 @@ const Footer = () => (
         <a href="https://www.tiktok.com/@modern_planners?_t=8XhSxyvDVgU&_r=1" target="_blank" rel="noopener noreferrer">
         <img src={tiktok} alt="tiktok"/><p>TikTok</p>
         </a>
+       
+
       </div>
       
       <div className="gpt3__footer-links_div">

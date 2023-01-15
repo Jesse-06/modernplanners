@@ -21,7 +21,6 @@ import {
   blog17,
   blog18,
   blog19,
-  blog20,
   blog124,
   blog1020,
   blog1021,
@@ -309,7 +308,7 @@ const ArticlesGrid = () => {
         <Article
           imgUrl={blog01}
           price="$10.99"
-          title="Floral Patterned (Tan) Notebook | 7.2 X 10.3 | 120 Pages"
+          title="Floral Patterned (Tan) Notebook | 7.2 X 10.3 | 200 Pages"
         />
       </a>
       <a
@@ -477,17 +476,7 @@ const ArticlesGrid = () => {
           title="Forest Green Elegant Patterned | 6 X 9 | 120 Pages"
         />
       </a>
-      <a
-        href="https://www.amazon.com/dp/B09QFDVCQT"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        <Article
-          imgUrl={blog20}
-          price="$7.99"
-          title="Forest Green Elegant Patterned | 7.2 X 10.3 | 200 Pages"
-        />
-      </a>
+      
       <a
         href="https://www.amazon.com/dp/B0BHN5B8X6"
         target="_blank"
