@@ -59,7 +59,7 @@
 }
 
 .gpt3__footer-links_logo {
-    
+
     display: flex;
     flex-direction: column;
 }
@@ -103,15 +103,15 @@
 
     margin: .5rem 0;
     cursor: pointer;
-    
+
 }
 
 .gpt3__footer-links_div img {
-margin-top: .5rem;
-width: 25px;
-height: 25px;
-cursor: pointer;
-;
+    margin-top: .5rem;
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+    ;
 
 }
 
