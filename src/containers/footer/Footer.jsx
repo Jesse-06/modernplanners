@@ -59,11 +59,7 @@ const Footer = () => (
         </a>
 
       </div>
-      <div className="gpt3__footer-links_div">
-        <a href="#home">
-        </a>
 
-      </div>
     </div>
 
     <div className="gpt3__footer-copyright">
