@@ -12,7 +12,7 @@ const Header = () => {
           href="https://www.modernplanners.co/#blog">notebook</a> in our collection is a work of art, created with passion and care. From elegant cover designs to thoughtfully designed interior layouts, our products are a true reflection of artistic craftsmanship. Whether you're a professional, student, or creative enthusiast, our planners and notebooks make the perfect gift to celebrate a special occasion, birthday, holiday, or simply as a wonderful addition to any workstation.<br />
           <br />
 
-          By subscribing to our mailing list, you'll stay informed and never miss out on our latest arrivals and best-selling notebooks and planners. Be the first to explore our newest designs, limited editions, and exclusive offers. We'll keep you inspired with fresh ideas, productivity tips, and creative prompts to enhance your daily routines.One of a kind, hand designed, artisan planners and notebooks offered exclusively by Modern Planners.</p>
+          Subscribe and stay informed and never miss out on our latest arrivals and best-selling notebooks and planners. Be the first to explore our newest designs, limited editions, and exclusive offers.</p>
         <div className=" gpt3__header-content__input">
           <form action="https://formsubmit.co/contact@modernplanners.co" method="POST">
             <input type="hidden" name="_subject" value="Modern Planners Submission!" />
